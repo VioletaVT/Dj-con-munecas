@@ -1,0 +1,52 @@
+body{
+    background-size: cover;
+}
+
+.encabezado{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.nota{
+    font-size: 15px;
+    color: #000;
+}
+
+.divspeed{
+    float: left;
+}
+
+.speedimg{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.divolume{
+    float: right;
+}
+
+.volumeimg{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volumen{
+    font-size: 23px;
+    margin: 15px;
+}
+
+#velocidad{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play-button{
+    width: 145px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
